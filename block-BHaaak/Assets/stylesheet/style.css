@@ -1,0 +1,8 @@
+ .buttons {
+     margin-top: 10px;
+ }
+ 
+ .buttons a {
+     background: green;
+     color: black;
+ }
